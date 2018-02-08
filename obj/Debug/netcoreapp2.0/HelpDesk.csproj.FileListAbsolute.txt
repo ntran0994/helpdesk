@@ -1,0 +1,10 @@
+D:\Project\HelpDesk\bin\Debug\netcoreapp2.0\HelpDesk.deps.json
+D:\Project\HelpDesk\bin\Debug\netcoreapp2.0\HelpDesk.runtimeconfig.json
+D:\Project\HelpDesk\bin\Debug\netcoreapp2.0\HelpDesk.runtimeconfig.dev.json
+D:\Project\HelpDesk\bin\Debug\netcoreapp2.0\HelpDesk.dll
+D:\Project\HelpDesk\bin\Debug\netcoreapp2.0\HelpDesk.pdb
+D:\Project\HelpDesk\obj\Debug\netcoreapp2.0\HelpDesk.csproj.CoreCompileInputs.cache
+D:\Project\HelpDesk\obj\Debug\netcoreapp2.0\HelpDesk.AssemblyInfoInputs.cache
+D:\Project\HelpDesk\obj\Debug\netcoreapp2.0\HelpDesk.AssemblyInfo.cs
+D:\Project\HelpDesk\obj\Debug\netcoreapp2.0\HelpDesk.dll
+D:\Project\HelpDesk\obj\Debug\netcoreapp2.0\HelpDesk.pdb
